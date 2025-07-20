@@ -1,0 +1,181 @@
+{
+  "books": {
+    "9 781550 819731": {
+      "isbn": "9 781550 819731",
+      "title": "The Gull workshop and other stories",
+      "author": "Larry Mathews",
+      "copies": 5,
+      "available_copies": 3
+    },
+    "152122": {
+      "isbn": "152122",
+      "title": "software fundamentals",
+      "author": "Prof Abas",
+      "copies": 3,
+      "available_copies": 3
+    },
+    "98 765": {
+      "isbn": "98 765",
+      "title": "makuto book",
+      "author": "anesu sam",
+      "copies": 2,
+      "available_copies": 2
+    },
+    "125262535": {
+      "isbn": "125262535",
+      "title": "abced",
+      "author": "fdsa",
+      "copies": 1,
+      "available_copies": 1
+    },
+    "9789876543210": {
+      "isbn": "9789876543210",
+      "title": "Automate the Boring Stuff",
+      "author": "Al Sweigart",
+      "copies": 5,
+      "available_copies": 5
+    },
+    "9 751220 7612321": {
+      "isbn": "9 751220 7612321",
+      "title": "The subtle art",
+      "author": "Bill Mclaire",
+      "copies": 3,
+      "available_copies": 3
+    },
+    "7 781440 765431": {
+      "isbn": "7 781440 765431",
+      "title": "How to be rich",
+      "author": "Mentee J",
+      "copies": 3,
+      "available_copies": 3
+    },
+    "9789876543233": {
+      "isbn": "9789876543233",
+      "title": "Automate eberything",
+      "author": "Al Sweigart",
+      "copies": 2,
+      "available_copies": 2
+    },
+    "9789876553233": {
+      "isbn": "9789876553233",
+      "title": "Automate everything",
+      "author": "Anesu Vickie",
+      "copies": 2,
+      "available_copies": 2
+    }
+  },
+  "readers": {
+    "202481536": {
+      "reader_id": "202481536",
+      "name": "Anesu",
+      "email": "anesumakuto@gmail.com",
+      "phone": "709 330 8622"
+    },
+    "202382513": {
+      "reader_id": "202382513",
+      "name": "Oluwaseun",
+      "email": "osakinfenwa@mun.ca",
+      "phone": "437 556 7284"
+    },
+    "20248532": {
+      "reader_id": "20248532",
+      "name": "Oluwadamilola",
+      "email": "osoluwadamilola@mun.ca",
+      "phone": "709 334 8654"
+    },
+    "202012345": {
+      "reader_id": "202012345",
+      "name": "Samuel",
+      "email": "samuelano@mun.ca",
+      "phone": "709 223 8745"
+    },
+    "202135467": {
+      "reader_id": "202135467",
+      "name": "Carl",
+      "email": "carlc@gmail.com",
+      "phone": "709 440 8754"
+    }
+  },
+  "rentals": {
+    "R0001": {
+      "rental_id": "R0001",
+      "reader_id": "202481536",
+      "isbn": "9 781550 819731",
+      "rental_date": "2025-07-03 09:34:54",
+      "return_date": "2025-07-03 09:36:37",
+      "is_returned": true
+    },
+    "R0002": {
+      "rental_id": "R0002",
+      "reader_id": "202481536",
+      "isbn": "9 781550 819731",
+      "rental_date": "2025-07-03 11:09:34",
+      "return_date": null,
+      "is_returned": false
+    },
+    "R0003": {
+      "rental_id": "R0003",
+      "reader_id": "202382513",
+      "isbn": "9 781550 819731",
+      "rental_date": "2025-07-03 11:11:48",
+      "return_date": "2025-07-03 11:12:07",
+      "is_returned": true
+    },
+    "R0004": {
+      "rental_id": "R0004",
+      "reader_id": "202481536",
+      "isbn": "9 781550 819731",
+      "rental_date": "2025-07-12 21:47:02",
+      "return_date": "2025-07-18 23:57:57",
+      "is_returned": true
+    },
+    "R0005": {
+      "rental_id": "R0005",
+      "reader_id": "202481536",
+      "isbn": "9 781550 819731",
+      "rental_date": "2025-07-12 22:52:57",
+      "return_date": "2025-07-12 22:54:02",
+      "is_returned": true
+    },
+    "R0006": {
+      "rental_id": "R0006",
+      "reader_id": "202481536",
+      "isbn": "9 781550 819731",
+      "rental_date": "2025-07-14 11:50:02",
+      "return_date": "2025-07-14 16:32:47",
+      "is_returned": true
+    },
+    "R0007": {
+      "rental_id": "R0007",
+      "reader_id": "202382513",
+      "isbn": "9789876543210",
+      "rental_date": "2025-07-18 22:53:48",
+      "return_date": "2025-07-18 22:55:13",
+      "is_returned": true
+    },
+    "R0008": {
+      "rental_id": "R0008",
+      "reader_id": "202481536",
+      "isbn": "9789876543210",
+      "rental_date": "2025-07-18 23:34:31",
+      "return_date": "2025-07-18 23:34:53",
+      "is_returned": true
+    },
+    "R0009": {
+      "rental_id": "R0009",
+      "reader_id": "202481536",
+      "isbn": "9 781550 819731",
+      "rental_date": "2025-07-18 23:52:21",
+      "return_date": null,
+      "is_returned": false
+    },
+    "R0010": {
+      "rental_id": "R0010",
+      "reader_id": "202481536",
+      "isbn": "98 765",
+      "rental_date": "2025-07-19 00:14:53",
+      "return_date": "2025-07-19 00:15:32",
+      "is_returned": true
+    }
+  }
+}
