@@ -46,4 +46,4 @@ ok_btn = locate_image('ok_registerreturn_button.png', "'OK' button (Register Ret
 if not ok_btn:
     sys.exit()
 pyautogui.click(ok_btn)
-print("Clicked OK to complete return process.")
+print("Clicked OK to complete return process process.")
