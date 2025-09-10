@@ -47,4 +47,4 @@ time.sleep(0.5)
 if not locate_and_click('search_book_button.png', "Search button"):
     sys.exit()
 
-print("Search Book by Title test completed successfully.")
+print("Search Book by Title test completed successfully successfully.")
